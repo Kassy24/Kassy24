@@ -14,6 +14,8 @@ I am a hobby-enthusiast, if it's a hobby I'm in it. From satellites to photograp
 Currently learning Python, and later C++
 
 I'll gladly send you my contact information for a variatey of platforms, preferrably ones that are end-to-end encrypted!
+
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGUrWZwBDADmhSZgTaF/TiYuL/Lco4TAXmMdfH/kbuWK4aSyd5GxtftAxRlX
