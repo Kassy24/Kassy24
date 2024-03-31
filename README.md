@@ -1,6 +1,6 @@
 # Hola, Hello, こんばんわ！
 
-Hi! Kassy here! You may know me, you may not.
+Hi! You may know me, you may not.
 I am a hobby-enthusiast, if it's a hobby I'm in it. From satellites to photography I've done it.
 
 ### Hobbies
@@ -15,46 +15,4 @@ Currently learning Python, and later C++
 
 I'll gladly send you my contact information for a variatey of platforms, preferrably ones that are end-to-end encrypted!
 
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-yt1/DbzR7XPGNt9tENmT2rjwB1DM03VP
-=QLHa
------END PGP PUBLIC KEY BLOCK-----
 
